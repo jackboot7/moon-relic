@@ -7,6 +7,7 @@ template and generate the output files and a index file.
 Start DB
 --------
 
+```
   $ sqlite3 -init data.sql data.db
   -- Loading resources from data.sql
 
@@ -15,5 +16,5 @@ Start DB
   Enter SQL statements terminated with a ";"
   sqlite> .q
   $
-
+```
 
