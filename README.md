@@ -1,7 +1,7 @@
 moon-relic
 ==========
 
-Extract data from a database and parse the records with a mako|chameleon
+Extract data from a database and parse the records with a Jinja2
 template and generate the output files and a index file.
 
 Start DB
@@ -15,3 +15,5 @@ Start DB
   Enter SQL statements terminated with a ";"
   sqlite> .q
   $
+
+
